@@ -1,0 +1,455 @@
+C:\Demos\Quiz2-LINQ\Quiz2-LINQ\bin\Debug\net8.0-windows\Quiz2-LINQ.exe
+C:\Demos\Quiz2-LINQ\Quiz2-LINQ\bin\Debug\net8.0-windows\Quiz2-LINQ.dll.config
+C:\Demos\Quiz2-LINQ\Quiz2-LINQ\bin\Debug\net8.0-windows\Quiz2-LINQ.deps.json
+C:\Demos\Quiz2-LINQ\Quiz2-LINQ\bin\Debug\net8.0-windows\Quiz2-LINQ.runtimeconfig.json
+C:\Demos\Quiz2-LINQ\Quiz2-LINQ\bin\Debug\net8.0-windows\Quiz2-LINQ.dll
+C:\Demos\Quiz2-LINQ\Quiz2-LINQ\bin\Debug\net8.0-windows\Quiz2-LINQ.pdb
+C:\Demos\Quiz2-LINQ\Quiz2-LINQ\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Demos\Quiz2-LINQ\Quiz2-LINQ\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Demos\Quiz2-LINQ\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Demos\Quiz2-LINQ\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Demos\Quiz2-LINQ\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Demos\Quiz2-LINQ\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Demos\Quiz2-LINQ\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Demos\Quiz2-LINQ\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Demos\Quiz2-LINQ\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Demos\Quiz2-LINQ\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Demos\Quiz2-LINQ\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Demos\Quiz2-LINQ\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Demos\Quiz2-LINQ\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Demos\Quiz2-LINQ\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Demos\Quiz2-LINQ\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Demos\Quiz2-LINQ\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Demos\Quiz2-LINQ\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Demos\Quiz2-LINQ\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Demos\Quiz2-LINQ\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Demos\Quiz2-LINQ\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Demos\Quiz2-LINQ\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Demos\Quiz2-LINQ\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Demos\Quiz2-LINQ\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Demos\Quiz2-LINQ\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Demos\Quiz2-LINQ\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Demos\Quiz2-LINQ\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Demos\Quiz2-LINQ\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Demos\Quiz2-LINQ\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Demos\Quiz2-LINQ\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Demos\Quiz2-LINQ\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Demos\Quiz2-LINQ\Quiz2-LINQ\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Demos\Quiz2-LINQ\Quiz2-LINQ\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Demos\Quiz2-LINQ\Quiz2-LINQ\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Demos\Quiz2-LINQ\Quiz2-LINQ\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Demos\Quiz2-LINQ\Quiz2-LINQ\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Demos\Quiz2-LINQ\Quiz2-LINQ\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Demos\Quiz2-LINQ\Quiz2-LINQ\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Demos\Quiz2-LINQ\Quiz2-LINQ\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Demos\Quiz2-LINQ\Quiz2-LINQ\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Demos\Quiz2-LINQ\Quiz2-LINQ\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Demos\Quiz2-LINQ\Quiz2-LINQ\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Demos\Quiz2-LINQ\Quiz2-LINQ\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Demos\Quiz2-LINQ\Quiz2-LINQ\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Demos\Quiz2-LINQ\Quiz2-LINQ\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Demos\Quiz2-LINQ\Quiz2-LINQ\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Demos\Quiz2-LINQ\Quiz2-LINQ\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Demos\Quiz2-LINQ\Quiz2-LINQ\obj\Debug\net8.0-windows\Quiz2-LINQ.csproj.AssemblyReference.cache
+C:\Demos\Quiz2-LINQ\Quiz2-LINQ\obj\Debug\net8.0-windows\Quiz2_LINQ.Form1.resources
+C:\Demos\Quiz2-LINQ\Quiz2-LINQ\obj\Debug\net8.0-windows\Quiz2-LINQ.csproj.GenerateResource.cache
+C:\Demos\Quiz2-LINQ\Quiz2-LINQ\obj\Debug\net8.0-windows\Quiz2-LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Demos\Quiz2-LINQ\Quiz2-LINQ\obj\Debug\net8.0-windows\Quiz2-LINQ.AssemblyInfoInputs.cache
+C:\Demos\Quiz2-LINQ\Quiz2-LINQ\obj\Debug\net8.0-windows\Quiz2-LINQ.AssemblyInfo.cs
+C:\Demos\Quiz2-LINQ\Quiz2-LINQ\obj\Debug\net8.0-windows\Quiz2-LINQ.csproj.CoreCompileInputs.cache
+C:\Demos\Quiz2-LINQ\Quiz2-LINQ\obj\Debug\net8.0-windows\Quiz2-LINQ.csproj.Up2Date
+C:\Demos\Quiz2-LINQ\Quiz2-LINQ\obj\Debug\net8.0-windows\Quiz2-LINQ.dll
+C:\Demos\Quiz2-LINQ\Quiz2-LINQ\obj\Debug\net8.0-windows\refint\Quiz2-LINQ.dll
+C:\Demos\Quiz2-LINQ\Quiz2-LINQ\obj\Debug\net8.0-windows\Quiz2-LINQ.pdb
+C:\Demos\Quiz2-LINQ\Quiz2-LINQ\obj\Debug\net8.0-windows\Quiz2-LINQ.genruntimeconfig.cache
+C:\Demos\Quiz2-LINQ\Quiz2-LINQ\obj\Debug\net8.0-windows\ref\Quiz2-LINQ.dll
+C:\Demos\Quiz2-LINQ-Solution\Quiz2-LINQ\bin\Debug\net8.0-windows\Quiz2-LINQ.exe
+C:\Demos\Quiz2-LINQ-Solution\Quiz2-LINQ\bin\Debug\net8.0-windows\Quiz2-LINQ.dll.config
+C:\Demos\Quiz2-LINQ-Solution\Quiz2-LINQ\bin\Debug\net8.0-windows\Quiz2-LINQ.deps.json
+C:\Demos\Quiz2-LINQ-Solution\Quiz2-LINQ\bin\Debug\net8.0-windows\Quiz2-LINQ.runtimeconfig.json
+C:\Demos\Quiz2-LINQ-Solution\Quiz2-LINQ\bin\Debug\net8.0-windows\Quiz2-LINQ.dll
+C:\Demos\Quiz2-LINQ-Solution\Quiz2-LINQ\bin\Debug\net8.0-windows\Quiz2-LINQ.pdb
+C:\Demos\Quiz2-LINQ-Solution\Quiz2-LINQ\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Demos\Quiz2-LINQ-Solution\Quiz2-LINQ\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Demos\Quiz2-LINQ-Solution\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Demos\Quiz2-LINQ-Solution\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Demos\Quiz2-LINQ-Solution\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Demos\Quiz2-LINQ-Solution\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Demos\Quiz2-LINQ-Solution\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Demos\Quiz2-LINQ-Solution\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Demos\Quiz2-LINQ-Solution\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Demos\Quiz2-LINQ-Solution\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Demos\Quiz2-LINQ-Solution\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Demos\Quiz2-LINQ-Solution\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Demos\Quiz2-LINQ-Solution\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Demos\Quiz2-LINQ-Solution\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Demos\Quiz2-LINQ-Solution\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Demos\Quiz2-LINQ-Solution\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Demos\Quiz2-LINQ-Solution\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Demos\Quiz2-LINQ-Solution\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Demos\Quiz2-LINQ-Solution\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Demos\Quiz2-LINQ-Solution\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Demos\Quiz2-LINQ-Solution\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Demos\Quiz2-LINQ-Solution\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Demos\Quiz2-LINQ-Solution\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Demos\Quiz2-LINQ-Solution\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Demos\Quiz2-LINQ-Solution\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Demos\Quiz2-LINQ-Solution\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Demos\Quiz2-LINQ-Solution\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Demos\Quiz2-LINQ-Solution\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Demos\Quiz2-LINQ-Solution\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Demos\Quiz2-LINQ-Solution\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Demos\Quiz2-LINQ-Solution\Quiz2-LINQ\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Demos\Quiz2-LINQ-Solution\Quiz2-LINQ\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Demos\Quiz2-LINQ-Solution\Quiz2-LINQ\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Demos\Quiz2-LINQ-Solution\Quiz2-LINQ\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Demos\Quiz2-LINQ-Solution\Quiz2-LINQ\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Demos\Quiz2-LINQ-Solution\Quiz2-LINQ\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Demos\Quiz2-LINQ-Solution\Quiz2-LINQ\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Demos\Quiz2-LINQ-Solution\Quiz2-LINQ\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Demos\Quiz2-LINQ-Solution\Quiz2-LINQ\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Demos\Quiz2-LINQ-Solution\Quiz2-LINQ\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Demos\Quiz2-LINQ-Solution\Quiz2-LINQ\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Demos\Quiz2-LINQ-Solution\Quiz2-LINQ\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Demos\Quiz2-LINQ-Solution\Quiz2-LINQ\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Demos\Quiz2-LINQ-Solution\Quiz2-LINQ\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Demos\Quiz2-LINQ-Solution\Quiz2-LINQ\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Demos\Quiz2-LINQ-Solution\Quiz2-LINQ\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Demos\Quiz2-LINQ-Solution\Quiz2-LINQ\obj\Debug\net8.0-windows\Quiz2-LINQ.csproj.AssemblyReference.cache
+C:\Demos\Quiz2-LINQ-Solution\Quiz2-LINQ\obj\Debug\net8.0-windows\Quiz2_LINQ.Form1.resources
+C:\Demos\Quiz2-LINQ-Solution\Quiz2-LINQ\obj\Debug\net8.0-windows\Quiz2-LINQ.csproj.GenerateResource.cache
+C:\Demos\Quiz2-LINQ-Solution\Quiz2-LINQ\obj\Debug\net8.0-windows\Quiz2-LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Demos\Quiz2-LINQ-Solution\Quiz2-LINQ\obj\Debug\net8.0-windows\Quiz2-LINQ.AssemblyInfoInputs.cache
+C:\Demos\Quiz2-LINQ-Solution\Quiz2-LINQ\obj\Debug\net8.0-windows\Quiz2-LINQ.AssemblyInfo.cs
+C:\Demos\Quiz2-LINQ-Solution\Quiz2-LINQ\obj\Debug\net8.0-windows\Quiz2-LINQ.csproj.CoreCompileInputs.cache
+C:\Demos\Quiz2-LINQ-Solution\Quiz2-LINQ\obj\Debug\net8.0-windows\Quiz2-LINQ.csproj.Up2Date
+C:\Demos\Quiz2-LINQ-Solution\Quiz2-LINQ\obj\Debug\net8.0-windows\Quiz2-LINQ.dll
+C:\Demos\Quiz2-LINQ-Solution\Quiz2-LINQ\obj\Debug\net8.0-windows\refint\Quiz2-LINQ.dll
+C:\Demos\Quiz2-LINQ-Solution\Quiz2-LINQ\obj\Debug\net8.0-windows\Quiz2-LINQ.pdb
+C:\Demos\Quiz2-LINQ-Solution\Quiz2-LINQ\obj\Debug\net8.0-windows\Quiz2-LINQ.genruntimeconfig.cache
+C:\Demos\Quiz2-LINQ-Solution\Quiz2-LINQ\obj\Debug\net8.0-windows\ref\Quiz2-LINQ.dll
+C:\Demos\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Quiz2-LINQ.exe
+C:\Demos\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Quiz2-LINQ.dll.config
+C:\Demos\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Quiz2-LINQ.deps.json
+C:\Demos\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Quiz2-LINQ.runtimeconfig.json
+C:\Demos\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Quiz2-LINQ.dll
+C:\Demos\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Quiz2-LINQ.pdb
+C:\Demos\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Demos\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Demos\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Demos\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Demos\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Demos\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Demos\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Demos\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Demos\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Demos\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Demos\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Demos\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Demos\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Demos\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Demos\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Demos\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Demos\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Demos\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Demos\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Demos\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Demos\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Demos\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Demos\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Demos\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Demos\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Demos\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Demos\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Demos\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Demos\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Demos\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Demos\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Demos\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Demos\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Demos\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Demos\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Demos\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Demos\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Demos\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Demos\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Demos\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Demos\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Demos\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Demos\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Demos\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Demos\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Demos\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Demos\Quiz2-LINQ-Start\Quiz2-LINQ\obj\Debug\net8.0-windows\Quiz2-LINQ.csproj.AssemblyReference.cache
+C:\Demos\Quiz2-LINQ-Start\Quiz2-LINQ\obj\Debug\net8.0-windows\Quiz2_LINQ.Form1.resources
+C:\Demos\Quiz2-LINQ-Start\Quiz2-LINQ\obj\Debug\net8.0-windows\Quiz2-LINQ.csproj.GenerateResource.cache
+C:\Demos\Quiz2-LINQ-Start\Quiz2-LINQ\obj\Debug\net8.0-windows\Quiz2-LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Demos\Quiz2-LINQ-Start\Quiz2-LINQ\obj\Debug\net8.0-windows\Quiz2-LINQ.AssemblyInfoInputs.cache
+C:\Demos\Quiz2-LINQ-Start\Quiz2-LINQ\obj\Debug\net8.0-windows\Quiz2-LINQ.AssemblyInfo.cs
+C:\Demos\Quiz2-LINQ-Start\Quiz2-LINQ\obj\Debug\net8.0-windows\Quiz2-LINQ.csproj.CoreCompileInputs.cache
+C:\Demos\Quiz2-LINQ-Start\Quiz2-LINQ\obj\Debug\net8.0-windows\Quiz2-LINQ.csproj.Up2Date
+C:\Demos\Quiz2-LINQ-Start\Quiz2-LINQ\obj\Debug\net8.0-windows\Quiz2-LINQ.dll
+C:\Demos\Quiz2-LINQ-Start\Quiz2-LINQ\obj\Debug\net8.0-windows\refint\Quiz2-LINQ.dll
+C:\Demos\Quiz2-LINQ-Start\Quiz2-LINQ\obj\Debug\net8.0-windows\Quiz2-LINQ.pdb
+C:\Demos\Quiz2-LINQ-Start\Quiz2-LINQ\obj\Debug\net8.0-windows\Quiz2-LINQ.genruntimeconfig.cache
+C:\Demos\Quiz2-LINQ-Start\Quiz2-LINQ\obj\Debug\net8.0-windows\ref\Quiz2-LINQ.dll
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Quiz2-LINQ.exe
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Quiz2-LINQ.dll.config
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Quiz2-LINQ.deps.json
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Quiz2-LINQ.runtimeconfig.json
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Quiz2-LINQ.dll
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Quiz2-LINQ.pdb
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\obj\Debug\net8.0-windows\Quiz2-LINQ.csproj.AssemblyReference.cache
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\obj\Debug\net8.0-windows\Quiz2_LINQ.Form1.resources
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\obj\Debug\net8.0-windows\Quiz2-LINQ.csproj.GenerateResource.cache
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\obj\Debug\net8.0-windows\Quiz2-LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\obj\Debug\net8.0-windows\Quiz2-LINQ.AssemblyInfoInputs.cache
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\obj\Debug\net8.0-windows\Quiz2-LINQ.AssemblyInfo.cs
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\obj\Debug\net8.0-windows\Quiz2-LINQ.csproj.CoreCompileInputs.cache
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\obj\Debug\net8.0-windows\Quiz2-LINQ.csproj.Up2Date
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\obj\Debug\net8.0-windows\Quiz2-LINQ.dll
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\obj\Debug\net8.0-windows\refint\Quiz2-LINQ.dll
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\obj\Debug\net8.0-windows\Quiz2-LINQ.pdb
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\obj\Debug\net8.0-windows\Quiz2-LINQ.genruntimeconfig.cache
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\obj\Debug\net8.0-windows\ref\Quiz2-LINQ.dll
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Quiz2-LINQ.exe
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Quiz2-LINQ.dll.config
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Quiz2-LINQ.deps.json
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Quiz2-LINQ.runtimeconfig.json
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Quiz2-LINQ.dll
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Quiz2-LINQ.pdb
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\obj\Debug\net8.0-windows\Quiz2-LINQ.csproj.AssemblyReference.cache
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\obj\Debug\net8.0-windows\Quiz2_LINQ.Form1.resources
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\obj\Debug\net8.0-windows\Quiz2-LINQ.csproj.GenerateResource.cache
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\obj\Debug\net8.0-windows\Quiz2-LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\obj\Debug\net8.0-windows\Quiz2-LINQ.AssemblyInfoInputs.cache
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\obj\Debug\net8.0-windows\Quiz2-LINQ.AssemblyInfo.cs
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\obj\Debug\net8.0-windows\Quiz2-LINQ.csproj.CoreCompileInputs.cache
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\obj\Debug\net8.0-windows\Quiz2-LINQ.csproj.Up2Date
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\obj\Debug\net8.0-windows\Quiz2-LINQ.dll
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\obj\Debug\net8.0-windows\refint\Quiz2-LINQ.dll
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\obj\Debug\net8.0-windows\Quiz2-LINQ.pdb
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\obj\Debug\net8.0-windows\Quiz2-LINQ.genruntimeconfig.cache
+C:\DBP\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\obj\Debug\net8.0-windows\ref\Quiz2-LINQ.dll
+C:\Users\Aaron.Mitchell\source\repos\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Quiz2-LINQ.exe
+C:\Users\Aaron.Mitchell\source\repos\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Quiz2-LINQ.dll.config
+C:\Users\Aaron.Mitchell\source\repos\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Quiz2-LINQ.deps.json
+C:\Users\Aaron.Mitchell\source\repos\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Quiz2-LINQ.runtimeconfig.json
+C:\Users\Aaron.Mitchell\source\repos\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Quiz2-LINQ.dll
+C:\Users\Aaron.Mitchell\source\repos\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Quiz2-LINQ.pdb
+C:\Users\Aaron.Mitchell\source\repos\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Aaron.Mitchell\source\repos\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Aaron.Mitchell\source\repos\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Aaron.Mitchell\source\repos\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Aaron.Mitchell\source\repos\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Aaron.Mitchell\source\repos\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Aaron.Mitchell\source\repos\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Aaron.Mitchell\source\repos\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Aaron.Mitchell\source\repos\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Aaron.Mitchell\source\repos\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Aaron.Mitchell\source\repos\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Aaron.Mitchell\source\repos\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Aaron.Mitchell\source\repos\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Aaron.Mitchell\source\repos\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Aaron.Mitchell\source\repos\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Aaron.Mitchell\source\repos\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Aaron.Mitchell\source\repos\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Aaron.Mitchell\source\repos\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Aaron.Mitchell\source\repos\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Aaron.Mitchell\source\repos\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\Aaron.Mitchell\source\repos\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Aaron.Mitchell\source\repos\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Aaron.Mitchell\source\repos\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Aaron.Mitchell\source\repos\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Aaron.Mitchell\source\repos\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Aaron.Mitchell\source\repos\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Aaron.Mitchell\source\repos\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Aaron.Mitchell\source\repos\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\Aaron.Mitchell\source\repos\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\Aaron.Mitchell\source\repos\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\Aaron.Mitchell\source\repos\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Aaron.Mitchell\source\repos\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Aaron.Mitchell\source\repos\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\Aaron.Mitchell\source\repos\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Aaron.Mitchell\source\repos\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Aaron.Mitchell\source\repos\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Aaron.Mitchell\source\repos\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Aaron.Mitchell\source\repos\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Aaron.Mitchell\source\repos\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Aaron.Mitchell\source\repos\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\Aaron.Mitchell\source\repos\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\Aaron.Mitchell\source\repos\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\Aaron.Mitchell\source\repos\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\Aaron.Mitchell\source\repos\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\Aaron.Mitchell\source\repos\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\Aaron.Mitchell\source\repos\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Aaron.Mitchell\source\repos\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\obj\Debug\net8.0-windows\Quiz2-LINQ.csproj.AssemblyReference.cache
+C:\Users\Aaron.Mitchell\source\repos\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\obj\Debug\net8.0-windows\Quiz2_LINQ.Form1.resources
+C:\Users\Aaron.Mitchell\source\repos\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\obj\Debug\net8.0-windows\Quiz2-LINQ.csproj.GenerateResource.cache
+C:\Users\Aaron.Mitchell\source\repos\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\obj\Debug\net8.0-windows\Quiz2-LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aaron.Mitchell\source\repos\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\obj\Debug\net8.0-windows\Quiz2-LINQ.AssemblyInfoInputs.cache
+C:\Users\Aaron.Mitchell\source\repos\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\obj\Debug\net8.0-windows\Quiz2-LINQ.AssemblyInfo.cs
+C:\Users\Aaron.Mitchell\source\repos\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\obj\Debug\net8.0-windows\Quiz2-LINQ.csproj.CoreCompileInputs.cache
+C:\Users\Aaron.Mitchell\source\repos\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\obj\Debug\net8.0-windows\Quiz2-LINQ.csproj.Up2Date
+C:\Users\Aaron.Mitchell\source\repos\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\obj\Debug\net8.0-windows\Quiz2-LINQ.dll
+C:\Users\Aaron.Mitchell\source\repos\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\obj\Debug\net8.0-windows\refint\Quiz2-LINQ.dll
+C:\Users\Aaron.Mitchell\source\repos\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\obj\Debug\net8.0-windows\Quiz2-LINQ.pdb
+C:\Users\Aaron.Mitchell\source\repos\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\obj\Debug\net8.0-windows\Quiz2-LINQ.genruntimeconfig.cache
+C:\Users\Aaron.Mitchell\source\repos\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\obj\Debug\net8.0-windows\ref\Quiz2-LINQ.dll
+C:\Users\ethan\OneDrive - NBCC\Desktop\IT\Winter\DBP\Quiz2-LINQ-Practice\Quiz2-LINQ-Practice\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Quiz2-LINQ.exe
+C:\Users\ethan\OneDrive - NBCC\Desktop\IT\Winter\DBP\Quiz2-LINQ-Practice\Quiz2-LINQ-Practice\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Quiz2-LINQ.dll.config
+C:\Users\ethan\OneDrive - NBCC\Desktop\IT\Winter\DBP\Quiz2-LINQ-Practice\Quiz2-LINQ-Practice\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Quiz2-LINQ.deps.json
+C:\Users\ethan\OneDrive - NBCC\Desktop\IT\Winter\DBP\Quiz2-LINQ-Practice\Quiz2-LINQ-Practice\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Quiz2-LINQ.runtimeconfig.json
+C:\Users\ethan\OneDrive - NBCC\Desktop\IT\Winter\DBP\Quiz2-LINQ-Practice\Quiz2-LINQ-Practice\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Quiz2-LINQ.dll
+C:\Users\ethan\OneDrive - NBCC\Desktop\IT\Winter\DBP\Quiz2-LINQ-Practice\Quiz2-LINQ-Practice\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Quiz2-LINQ.pdb
+C:\Users\ethan\OneDrive - NBCC\Desktop\IT\Winter\DBP\Quiz2-LINQ-Practice\Quiz2-LINQ-Practice\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\ethan\OneDrive - NBCC\Desktop\IT\Winter\DBP\Quiz2-LINQ-Practice\Quiz2-LINQ-Practice\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\ethan\OneDrive - NBCC\Desktop\IT\Winter\DBP\Quiz2-LINQ-Practice\Quiz2-LINQ-Practice\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ethan\OneDrive - NBCC\Desktop\IT\Winter\DBP\Quiz2-LINQ-Practice\Quiz2-LINQ-Practice\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\ethan\OneDrive - NBCC\Desktop\IT\Winter\DBP\Quiz2-LINQ-Practice\Quiz2-LINQ-Practice\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\ethan\OneDrive - NBCC\Desktop\IT\Winter\DBP\Quiz2-LINQ-Practice\Quiz2-LINQ-Practice\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ethan\OneDrive - NBCC\Desktop\IT\Winter\DBP\Quiz2-LINQ-Practice\Quiz2-LINQ-Practice\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ethan\OneDrive - NBCC\Desktop\IT\Winter\DBP\Quiz2-LINQ-Practice\Quiz2-LINQ-Practice\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ethan\OneDrive - NBCC\Desktop\IT\Winter\DBP\Quiz2-LINQ-Practice\Quiz2-LINQ-Practice\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ethan\OneDrive - NBCC\Desktop\IT\Winter\DBP\Quiz2-LINQ-Practice\Quiz2-LINQ-Practice\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ethan\OneDrive - NBCC\Desktop\IT\Winter\DBP\Quiz2-LINQ-Practice\Quiz2-LINQ-Practice\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ethan\OneDrive - NBCC\Desktop\IT\Winter\DBP\Quiz2-LINQ-Practice\Quiz2-LINQ-Practice\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ethan\OneDrive - NBCC\Desktop\IT\Winter\DBP\Quiz2-LINQ-Practice\Quiz2-LINQ-Practice\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ethan\OneDrive - NBCC\Desktop\IT\Winter\DBP\Quiz2-LINQ-Practice\Quiz2-LINQ-Practice\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\ethan\OneDrive - NBCC\Desktop\IT\Winter\DBP\Quiz2-LINQ-Practice\Quiz2-LINQ-Practice\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ethan\OneDrive - NBCC\Desktop\IT\Winter\DBP\Quiz2-LINQ-Practice\Quiz2-LINQ-Practice\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\ethan\OneDrive - NBCC\Desktop\IT\Winter\DBP\Quiz2-LINQ-Practice\Quiz2-LINQ-Practice\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\ethan\OneDrive - NBCC\Desktop\IT\Winter\DBP\Quiz2-LINQ-Practice\Quiz2-LINQ-Practice\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\ethan\OneDrive - NBCC\Desktop\IT\Winter\DBP\Quiz2-LINQ-Practice\Quiz2-LINQ-Practice\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ethan\OneDrive - NBCC\Desktop\IT\Winter\DBP\Quiz2-LINQ-Practice\Quiz2-LINQ-Practice\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\ethan\OneDrive - NBCC\Desktop\IT\Winter\DBP\Quiz2-LINQ-Practice\Quiz2-LINQ-Practice\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ethan\OneDrive - NBCC\Desktop\IT\Winter\DBP\Quiz2-LINQ-Practice\Quiz2-LINQ-Practice\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ethan\OneDrive - NBCC\Desktop\IT\Winter\DBP\Quiz2-LINQ-Practice\Quiz2-LINQ-Practice\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\ethan\OneDrive - NBCC\Desktop\IT\Winter\DBP\Quiz2-LINQ-Practice\Quiz2-LINQ-Practice\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ethan\OneDrive - NBCC\Desktop\IT\Winter\DBP\Quiz2-LINQ-Practice\Quiz2-LINQ-Practice\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ethan\OneDrive - NBCC\Desktop\IT\Winter\DBP\Quiz2-LINQ-Practice\Quiz2-LINQ-Practice\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ethan\OneDrive - NBCC\Desktop\IT\Winter\DBP\Quiz2-LINQ-Practice\Quiz2-LINQ-Practice\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\ethan\OneDrive - NBCC\Desktop\IT\Winter\DBP\Quiz2-LINQ-Practice\Quiz2-LINQ-Practice\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\ethan\OneDrive - NBCC\Desktop\IT\Winter\DBP\Quiz2-LINQ-Practice\Quiz2-LINQ-Practice\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\ethan\OneDrive - NBCC\Desktop\IT\Winter\DBP\Quiz2-LINQ-Practice\Quiz2-LINQ-Practice\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\ethan\OneDrive - NBCC\Desktop\IT\Winter\DBP\Quiz2-LINQ-Practice\Quiz2-LINQ-Practice\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ethan\OneDrive - NBCC\Desktop\IT\Winter\DBP\Quiz2-LINQ-Practice\Quiz2-LINQ-Practice\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\ethan\OneDrive - NBCC\Desktop\IT\Winter\DBP\Quiz2-LINQ-Practice\Quiz2-LINQ-Practice\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\ethan\OneDrive - NBCC\Desktop\IT\Winter\DBP\Quiz2-LINQ-Practice\Quiz2-LINQ-Practice\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ethan\OneDrive - NBCC\Desktop\IT\Winter\DBP\Quiz2-LINQ-Practice\Quiz2-LINQ-Practice\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ethan\OneDrive - NBCC\Desktop\IT\Winter\DBP\Quiz2-LINQ-Practice\Quiz2-LINQ-Practice\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ethan\OneDrive - NBCC\Desktop\IT\Winter\DBP\Quiz2-LINQ-Practice\Quiz2-LINQ-Practice\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ethan\OneDrive - NBCC\Desktop\IT\Winter\DBP\Quiz2-LINQ-Practice\Quiz2-LINQ-Practice\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ethan\OneDrive - NBCC\Desktop\IT\Winter\DBP\Quiz2-LINQ-Practice\Quiz2-LINQ-Practice\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ethan\OneDrive - NBCC\Desktop\IT\Winter\DBP\Quiz2-LINQ-Practice\Quiz2-LINQ-Practice\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\ethan\OneDrive - NBCC\Desktop\IT\Winter\DBP\Quiz2-LINQ-Practice\Quiz2-LINQ-Practice\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\ethan\OneDrive - NBCC\Desktop\IT\Winter\DBP\Quiz2-LINQ-Practice\Quiz2-LINQ-Practice\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\ethan\OneDrive - NBCC\Desktop\IT\Winter\DBP\Quiz2-LINQ-Practice\Quiz2-LINQ-Practice\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\ethan\OneDrive - NBCC\Desktop\IT\Winter\DBP\Quiz2-LINQ-Practice\Quiz2-LINQ-Practice\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\ethan\OneDrive - NBCC\Desktop\IT\Winter\DBP\Quiz2-LINQ-Practice\Quiz2-LINQ-Practice\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\ethan\OneDrive - NBCC\Desktop\IT\Winter\DBP\Quiz2-LINQ-Practice\Quiz2-LINQ-Practice\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\ethan\OneDrive - NBCC\Desktop\IT\Winter\DBP\Quiz2-LINQ-Practice\Quiz2-LINQ-Practice\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\obj\Debug\net8.0-windows\Quiz2-LINQ.csproj.AssemblyReference.cache
+C:\Users\ethan\OneDrive - NBCC\Desktop\IT\Winter\DBP\Quiz2-LINQ-Practice\Quiz2-LINQ-Practice\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\obj\Debug\net8.0-windows\Quiz2_LINQ.Form1.resources
+C:\Users\ethan\OneDrive - NBCC\Desktop\IT\Winter\DBP\Quiz2-LINQ-Practice\Quiz2-LINQ-Practice\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\obj\Debug\net8.0-windows\Quiz2-LINQ.csproj.GenerateResource.cache
+C:\Users\ethan\OneDrive - NBCC\Desktop\IT\Winter\DBP\Quiz2-LINQ-Practice\Quiz2-LINQ-Practice\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\obj\Debug\net8.0-windows\Quiz2-LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ethan\OneDrive - NBCC\Desktop\IT\Winter\DBP\Quiz2-LINQ-Practice\Quiz2-LINQ-Practice\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\obj\Debug\net8.0-windows\Quiz2-LINQ.AssemblyInfoInputs.cache
+C:\Users\ethan\OneDrive - NBCC\Desktop\IT\Winter\DBP\Quiz2-LINQ-Practice\Quiz2-LINQ-Practice\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\obj\Debug\net8.0-windows\Quiz2-LINQ.AssemblyInfo.cs
+C:\Users\ethan\OneDrive - NBCC\Desktop\IT\Winter\DBP\Quiz2-LINQ-Practice\Quiz2-LINQ-Practice\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\obj\Debug\net8.0-windows\Quiz2-LINQ.csproj.CoreCompileInputs.cache
+C:\Users\ethan\OneDrive - NBCC\Desktop\IT\Winter\DBP\Quiz2-LINQ-Practice\Quiz2-LINQ-Practice\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\obj\Debug\net8.0-windows\Quiz2-LINQ.csproj.Up2Date
+C:\Users\ethan\OneDrive - NBCC\Desktop\IT\Winter\DBP\Quiz2-LINQ-Practice\Quiz2-LINQ-Practice\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\obj\Debug\net8.0-windows\Quiz2-LINQ.dll
+C:\Users\ethan\OneDrive - NBCC\Desktop\IT\Winter\DBP\Quiz2-LINQ-Practice\Quiz2-LINQ-Practice\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\obj\Debug\net8.0-windows\refint\Quiz2-LINQ.dll
+C:\Users\ethan\OneDrive - NBCC\Desktop\IT\Winter\DBP\Quiz2-LINQ-Practice\Quiz2-LINQ-Practice\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\obj\Debug\net8.0-windows\Quiz2-LINQ.pdb
+C:\Users\ethan\OneDrive - NBCC\Desktop\IT\Winter\DBP\Quiz2-LINQ-Practice\Quiz2-LINQ-Practice\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\obj\Debug\net8.0-windows\Quiz2-LINQ.genruntimeconfig.cache
+C:\Users\ethan\OneDrive - NBCC\Desktop\IT\Winter\DBP\Quiz2-LINQ-Practice\Quiz2-LINQ-Practice\Quiz2-LINQ-Start\Quiz2-LINQ-Start\Quiz2-LINQ\obj\Debug\net8.0-windows\ref\Quiz2-LINQ.dll
